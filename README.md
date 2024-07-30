@@ -1,4 +1,4 @@
-# WhatsApp MD User Bot
+# MR Rajput User Bot
 
 A simple WhatsApp User bot.
 
@@ -81,7 +81,7 @@ A simple WhatsApp User bot.
    echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
    PREFIX = .
    STICKER_PACKNAME = LyFE
-   ALWAYS_ONLINE = false
+   ALWAYS_ONLINE = True
    RMBG_KEY = null
    LANGUAG = en
    WARN_LIMIT = 3
